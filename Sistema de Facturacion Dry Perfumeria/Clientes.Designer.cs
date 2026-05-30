@@ -275,9 +275,9 @@
             this.panel1.BackColor = System.Drawing.Color.White;
             this.panel1.Controls.Add(this.label1);
             this.panel1.Controls.Add(this.pbLogo);
-            this.panel1.Location = new System.Drawing.Point(9, 81);
+            this.panel1.Location = new System.Drawing.Point(9, 12);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1290, 139);
+            this.panel1.Size = new System.Drawing.Size(1288, 139);
             this.panel1.TabIndex = 11;
             // 
             // groupBox1
