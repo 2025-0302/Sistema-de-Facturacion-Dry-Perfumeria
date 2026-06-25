@@ -10,24 +10,14 @@ using System.Windows.Forms;
 
 namespace Sistema_de_Facturacion_Dry_Perfumeria
 {
-    public partial class Cliente___Fidelidad : Form
+    public partial class Catalogo : Form
     {
-        public Cliente___Fidelidad()
+        public Catalogo()
         {
             InitializeComponent();
         }
 
-        private void Cliente___Fidelidad_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox3_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox4_TextChanged(object sender, EventArgs e)
+        private void Catalogo_Load(object sender, EventArgs e)
         {
 
         }
